@@ -29,7 +29,7 @@ python main.py
 
 **Note:**  You will need to provide a suitable dataset in the format specified within the code (likely a CSV file containing review text, item names, prices, and potentially sales data).  The exact file path may need to be adjusted within `main.py`.
 
-## Example Output
+## Example Output....
 
 The script will print key findings to the console, including summary statistics on sentiment scores for different price ranges of menu items and any significant correlations identified.  Additionally, the script generates several visualization files (e.g., scatter plots showing the relationship between price and sentiment, bar charts showing average sentiment for different price brackets).  These plots are saved in the `output` directory as PNG files (e.g., `sentiment_vs_price.png`, `average_sentiment_by_price_bracket.png`).  The specific outputs will depend on the input dataset.
 
