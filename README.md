@@ -34,7 +34,7 @@ python main.py
 The script will print key findings to the console, including summary statistics on sentiment scores for different price ranges of menu items and any significant correlations identified.  Additionally, the script generates several visualization files (e.g., scatter plots showing the relationship between price and sentiment, bar charts showing average sentiment for different price brackets).  These plots are saved in the `output` directory as PNG files (e.g., `sentiment_vs_price.png`, `average_sentiment_by_price_bracket.png`).  The specific outputs will depend on the input dataset.
 
 
-## Data Requirements
+## Data Requirements....
 
 The project expects a dataset with at least the following columns:
 
