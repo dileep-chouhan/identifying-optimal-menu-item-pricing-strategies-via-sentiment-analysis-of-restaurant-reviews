@@ -13,7 +13,7 @@ This project analyzes online restaurant reviews to identify correlations between
 * Seaborn
 * NLTK (or similar NLP library - specify if different)
 
-## How to Run....
+## How to Run
 
 This project requires Python 3 and several libraries listed above.  To install the necessary dependencies, navigate to the project's root directory in your terminal and run:
 
