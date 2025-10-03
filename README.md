@@ -5,7 +5,7 @@
 
 This project analyzes online restaurant reviews to identify correlations between customer sentiment and menu item pricing.  The goal is to develop data-driven insights that can help restaurants optimize their menu pricing strategies by understanding which price points yield the highest customer satisfaction for specific items.  The analysis involves sentiment analysis of review text, coupled with sales data (assumed to be provided in a suitable format), to determine the relationship between price, volume, and customer feedback.
 
-## Technologies Used....
+## Technologies Used
 
 * Python 3
 * Pandas
