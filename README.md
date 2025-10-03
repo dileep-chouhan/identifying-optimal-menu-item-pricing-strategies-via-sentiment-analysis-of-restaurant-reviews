@@ -44,7 +44,7 @@ The project expects a dataset with at least the following columns:
 *(Optional)* `sales_volume`: Number of times the item was sold.
 
 
-## Contributing.....
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
